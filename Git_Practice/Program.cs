@@ -6,7 +6,7 @@ namespace Git_Practice
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Modified Branch!");
+            Console.WriteLine("Hello Master Branch!");
             Console.ReadKey();
         }
     }
